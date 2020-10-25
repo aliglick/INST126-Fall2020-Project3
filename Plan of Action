@@ -1,1 +1,5 @@
-
+1. Suspicious Activities:
+To track suspicious behavior, we would have to write two conditional statements.
+The first conditional statement would check if any user logs into any of the systems more than 5 times in a single day.
+The second conditional statement would check if the user logs into any of the systems even once between 12:00 am to 5:00 am, it is marked as suspicious behavior.
+Then, we will return the total count of suspicious activities
