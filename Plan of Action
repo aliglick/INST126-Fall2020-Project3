@@ -14,7 +14,13 @@ the number of log offs, then that would be marked as an irresponsible activity!
 Then, we would return the total amount of irresponsible activities per user and
 whenever the number of logins are greater than the number of log offs, it has to equal 1.
 
-3. System Glitch: 
+3. System Glitch:
+This function is basically a reverse of the if statement for irresponsible behavior. So, to track system glitch, 
+we are going to have to make a list of all of the employees and make two conditional statements:
+The first conditional statement would look into the amount of times that each user logs into any of the systems and the other one could 
+look at how many times they log off of any of the systems. Then, an if statement could be implemented stating if the number of logins are less than
+the number of log offs, then that would be marked as a system glitch!
+Then, we would return the total amount of system glitches per user.
 
 4. Domain Count:
 
