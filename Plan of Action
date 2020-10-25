@@ -5,3 +5,11 @@ The second conditional statement would check if the user logs into any of the sy
 Then, we will return the total count of suspicious activities.
 
 2. Irresponsible behavior:
+
+3. System Glitch: 
+
+4. Domain Count:
+
+5. Additional Insights:
+We could analyze who works the most out of all of the employees by looking at the date and time that each employee logs in and logs out 
+and how often they log in to the workstation server
