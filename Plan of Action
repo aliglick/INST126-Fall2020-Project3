@@ -23,6 +23,8 @@ the number of log offs, then that would be flagged as a system glitch!
 Then, we would return the total amount of system glitches per user.
 
 4. Domain Count:
+To track domain count, what we can do is use the same list from #2 and create another list with all of the unique domains
+and from there we can return how many employees belong to each domain.
 
 5. Additional Insights:
 
