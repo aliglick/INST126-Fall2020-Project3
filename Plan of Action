@@ -1,4 +1,4 @@
-##1. Suspicious Activities:
+1. Suspicious Activities:
 
 To track suspicious behavior, we would have to define a function consisting of two conditional statements:
 The first conditional statement would check if any user logs into any of the systems more than 5 times in a single day.
