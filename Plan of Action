@@ -14,5 +14,5 @@ Then, we will return the total count of suspicious activities.
 We could analyze who works the most out of all of the employees by looking at the date and time that each employee logs in and logs out 
 and how often they log in to the workstation server
 
-In total, we will have at least 5 functions and one main dictionary data structure that returns all of the necessary information in each function, making
-our code way more organized.
+In total, we will have at least 5 functions and one main dictionary data structure that returns all of the necessary information in each 
+function, making our code way more organized.
