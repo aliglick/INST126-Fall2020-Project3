@@ -20,16 +20,16 @@ we are going to have to, again, make a list of all of the employees and make two
 The first conditional statement would look into the amount of times that each user logs into any of the systems and the other one could 
 look at how many times they log off of any of the systems. Then, an if statement could be implemented stating if the number of logins are less than
 the number of log offs, then that would be flagged as a system glitch!
-Then, we would return the total amount of system glitches per user.
+Lastly, we would return the total amount of system glitches per user.
 
 4. Domain Count:
-To track domain count, we will use the same list from #2 (irresponsible behavior) and create another list with all of the unique domains
-and from there we can return how many employees belong to each domain.
+To track domain count, we will use the same list from #2 (irresponsible behavior) and create another list with all of the unique domains.
+From there, we can return the amount of employees that belong to each domain.
 
 5. Additional Insights:
 
 We could analyze who works the most out of all of the employees by looking at the date and time that each employee logs in and logs out 
-and how often they log in to the workstation server
+as well as how often they do this.
 
 In total, we will have at least 5 functions and one main dictionary data structure that returns all of the necessary information in each 
 function, making our code way more organized.
